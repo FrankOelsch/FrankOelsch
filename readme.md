@@ -15,12 +15,11 @@ Ein Bild:
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-Eine Tabelle:
+Projektliste:
 
-
-| Projekt       | Sprache       | Datenbank  |
-| ------------- |:-------------:| ----------:|
-| col 3 is      | right-aligned | $1600      |
-| col 2 is      | centered      |   $12      |
-| zebra stripes | are neat      |    $1      |
+| Projekt                          | Sprache       | Datenbank     |
+| -------------------------------- |:-------------:| -------------:|
+| Auftragsbearbeitung Garagentore  | Visual Basic  | Jet / Access  |
+| Auftragsbearbeitung Verleih      | C#.NET        | Jet / Access  |
+| Individuelles Blog-System        | PHP.          | MySQL.        |
 
