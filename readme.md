@@ -17,9 +17,9 @@ Ein Bild:
 
 Projektliste:
 
-| Projekt                          | Sprache       | Datenbank     |
+| **Projekt                          | Sprache       | Datenbank**     |
 | -------------------------------- |:-------------:| -------------:|
 | Auftragsbearbeitung Garagentore  | Visual Basic  | Jet / Access  |
 | Auftragsbearbeitung Verleih      | C#.NET        | Jet / Access  |
-| Individuelles Blog-System        | PHP.          | MySQL.        |
+| Individuelles Blog-System        | PHP           | MySQL         |
 
