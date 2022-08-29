@@ -19,6 +19,9 @@ Meine zukünftigen Software-Kenntnisse:
 
 Ein Bild:
 
+<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="drawing" width="200"/>
+
+
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ---
