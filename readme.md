@@ -4,25 +4,18 @@
 
 Meine bisherigen Software-Kenntnisse:
 
-* Visual Basic 6
-* C#.NET
-* PHP
+* Visual Basic 6 - Visual Studio
+* C#.NET - Visual Studio
+* PHP / MySQL - PhpStorm
+* HTML5 / CSS3 - PhpStorm
+* JavaScript
 
 ---
 
 Meine zukünftigen Software-Kenntnisse:
 
-* JavaScript
 * React
-
----
-
-Ein Bild:
-
-<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="drawing" width="200"/>
-
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+* MongoDB
 
 ---
 
