@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ich befinde mich derzeit im remote Bootcamp<br>Web Development mit Fokus auf React des Ausbilders<br>neuefische GmbH Hamburg.
+Ich befinde mich derzeit im remote Bootcamp<br>Web Development mit Fokus auf React<br>des Ausbilders neuefische GmbH Hamburg.
 
 
 # 💻 Tech Stack:
